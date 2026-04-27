@@ -1,0 +1,8 @@
+# k8s/mongo/configmap.yaml
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mongo-config
+  namespace: dev
+data:
+  database_url: mongodb://admin:password@mongo-0.mongo:27017
