@@ -157,4 +157,4 @@ MongoDB authentication
 Horizontal Pod Autoscaler
 👨‍💻 Author
 
-DevOps Learning Project
+Solomon Esekhile-Leo
